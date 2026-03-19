@@ -1,5 +1,5 @@
 {
-  "name": "promptweave",
+  "name": "@promptweave/core",
   "version": "0.0.1",
   "description": "The Git for Prompts — Open-source AI Prompt Engineering Platform",
   "type": "module",
