@@ -1,0 +1,33 @@
+{
+  "name": "promptweave",
+  "version": "0.0.1",
+  "description": "The Git for Prompts — Open-source AI Prompt Engineering Platform",
+  "type": "module",
+  "scripts": {
+    "dev": "echo 'Coming soon'",
+    "build": "echo 'Coming soon'",
+    "test": "echo 'Coming soon'",
+    "lint": "echo 'Coming soon'"
+  },
+  "keywords": [
+    "prompt",
+    "prompt-engineering",
+    "llm",
+    "ai",
+    "prompt-management",
+    "prompt-testing",
+    "metaprompt",
+    "openai",
+    "anthropic",
+    "gemini"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/me-tool/promptweave.git"
+  },
+  "homepage": "https://github.com/me-tool/promptweave#readme",
+  "engines": {
+    "node": ">=22"
+  }
+}
